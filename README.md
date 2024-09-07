@@ -2,5 +2,5 @@
 
 NOMES
 
-Jessica Witzler Costacurta rm99068
-Marcio Hitoshi Tahyra rm552511
+- Jessica Witzler Costacurta rm99068
+- Marcio Hitoshi Tahyra rm552511
